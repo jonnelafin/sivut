@@ -1,0 +1,6 @@
+/coding/sivut/assets/config/features.txt
+assets/models/dev/gradient.pb3d
+assets/models/dev/gradient_lines.pb3d
+assets/models/dev/gradient_faces.pb3d
+assets/models/dev/gradient_color.pb3d
+
